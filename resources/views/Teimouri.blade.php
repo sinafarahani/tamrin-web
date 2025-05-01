@@ -1,6 +1,5 @@
 <x-home>
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 justify-items-center">
-        <div>
+       <div>
             <img class="h-52"  src="{{ asset('storage/teimouri.jpg') }}" alt="{{__('حسین تیموری فعال')}}">
         </div>
         <div>
@@ -23,5 +22,4 @@
                 </tr>
             </table>
         </div>
-    </div>
 </x-home>

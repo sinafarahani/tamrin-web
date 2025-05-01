@@ -1,5 +1,4 @@
 <x-home>
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 justify-items-center">
         <div>
             <img class="h-52"  src="{{ asset('storage/rahimi.jpg') }}" alt="{{__('زهرا رحیمی')}}">
         </div>
@@ -23,5 +22,4 @@
                 </tr>
             </table>
         </div>
-    </div>
 </x-home>
